@@ -1,6 +1,7 @@
 def using_include(array, element)
-  include wow
-  include Tardes
+   ["wow", "I", "am", "really", "learning", "arrays!"]
+  include (element1)
+  include (element2)
 end
 
 def using_sort(array)
